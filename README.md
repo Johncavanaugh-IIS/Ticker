@@ -1,2 +1,2 @@
-# Ticker
+# ticker
 ProCap Ticker
